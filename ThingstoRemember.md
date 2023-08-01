@@ -23,5 +23,3 @@
 11. **psql Commands**: Remember that the commands that are specific to the `psql` interface (like `\dt` to list tables or `\q` to quit) are not standard SQL - they won't work in a different SQL client or in your application's PostgreSQL library.
 
 ---
-
-Mastering PostgreSQL, like any other technology, comes with time and practice. The more you use it, the more comfortable you'll get with its nuances and idiosyncrasies. Happy coding!
